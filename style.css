@@ -4,39 +4,21 @@ body{
     text-align: center;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-a{
+.mainpage{
     color:darkgreen;
 }
-a:hover{
+.mainpage:hover{
     color:black;
 }
-h1{
-    color:darkgreen;
+.popimage{
+    border-color:black;
+    border-width: 4px;
+    border-style: solid;
+    border-radius: 10px;
+    float:left;
+    height:200px;
+    width:250px;
 }
-h1:hover{
-    color:black;
-}
-h3{
-    color:darkgreen;
-}
-h3:hover{
-    color:black;
-}
-p{
-    color:darkgreen;
-}
-p:hover{
-    color:black;
-}
-h4{
-    color:darkgreen;
-}
-h4:hover{
-    color:black;
-}
-li{
-    color:darkgreen;
-}
-li:hover{
-    color:black;
+.pop{
+    text-align: left;
 }
