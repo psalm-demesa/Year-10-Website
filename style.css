@@ -1,1 +1,41 @@
-
+body{
+    background-color: antiquewhite;
+    color:darkgreen;
+    text-align: center;
+}
+a{
+    color:darkgreen;
+}
+a:hover{
+    color:black;
+}
+h1{
+    color:darkgreen;
+}
+h1:hover{
+    color:black;
+}
+h3{
+    color:darkgreen;
+}
+h3:hover{
+    color:black;
+}
+p{
+    color:darkgreen;
+}
+p:hover{
+    color:black;
+}
+h4{
+    color:darkgreen;
+}
+h4:hover{
+    color:black;
+}
+li{
+    color:darkgreen;
+}
+li:hover{
+    color:black;
+}
