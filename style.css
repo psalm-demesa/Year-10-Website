@@ -10,15 +10,32 @@ body{
 .mainpage:hover{
     color:black;
 }
-.popimage{
+.image{
     border-color:black;
     border-width: 4px;
-    border-style: solid;
-    border-radius: 10px;
+    border-style:double;
+    border-radius: 15px;
     float:left;
     height:200px;
     width:250px;
 }
 .pop{
     text-align: left;
+    color:darkgreen;
+}
+.pop:hover{
+    color:black;
+}
+.homebutton{
+    border-color:black;
+    border-width: 4px;
+    border-style: solid;
+    border-radius: 10px;
+    float: center;
+    height:90;
+    width:100px;
+}
+.hometext{
+    text-align:center;
+    font-size: 13px;
 }
