@@ -16,7 +16,7 @@ body{
     border-style:double;
     border-radius: 15px;
     float:left;
-    height:200px;
+    height:250px;
     width:250px;
 }
 .pop{
@@ -24,6 +24,13 @@ body{
     color:darkgreen;
 }
 .pop:hover{
+    color:black;
+}
+.indiepop{
+    text-align: left;
+    color:darkgreen;
+}
+.indiepop:hover{
     color:black;
 }
 .homebutton{
