@@ -18,8 +18,8 @@ body{
     border-color:black;
     border-width: 4px;
     border-style:double;
-    border-radius: 15px;
-    float:left;
+    border-radius: 20px;
+    float:center;
     height:250px;
     width:250px;
 }
@@ -27,7 +27,7 @@ body{
     border-color:black;
     border-width: 4px;
     border-style:double;
-    border-radius: 15px;
+    border-radius: 20px;
     float:center;
     height:250px;
     width:250px;
@@ -36,8 +36,8 @@ body{
     border-color:black;
     border-width: 4px;
     border-style:double;
-    border-radius: 15px;
-    float:right;
+    border-radius: 20px;
+    float:center;
     height:250px;
     width:250px;
 }
