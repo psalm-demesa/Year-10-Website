@@ -3,7 +3,10 @@ body{
     color:darkgreen;
     text-align: center;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    padding: 1cm;
+    padding-left: 1cm;
+    padding-right:1cm;
+    padding-top: 0.5cm;
+    padding-bottom:0.5cm
 }
 .mainpage{
     color:darkgreen;
