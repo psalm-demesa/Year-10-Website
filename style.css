@@ -18,7 +18,7 @@ body{
     border-color:black;
     border-width: 4px;
     border-style:double;
-    border-radius: 20px;
+    border-radius: 15px;
     float:center;
     height:250px;
     width:250px;
@@ -36,7 +36,7 @@ body{
     border-color:black;
     border-width: 4px;
     border-style:double;
-    border-radius: 20px;
+    border-radius: 15px;
     float:center;
     height:250px;
     width:250px;
@@ -74,4 +74,11 @@ body{
 .hometext{
     text-align:center;
     font-size: 13px;
+}
+.artistimage{
+    border-color:black;
+    border-width:4px;
+    border-radius:10px;
+    height:300px;
+    width:250px;
 }
