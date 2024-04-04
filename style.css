@@ -75,3 +75,10 @@ body{
     text-align:center;
     font-size: 13px;
 }
+.artistimage{
+    border-color:black;
+    border-width:4px;
+    border-radius:10px;
+    height:300px;
+    width:250px;
+}
